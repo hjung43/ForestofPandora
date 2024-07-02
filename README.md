@@ -61,7 +61,7 @@
 <summary> ERD </summary>
 <div>
 
-![ERD](./assets/판숲 ERD.png)
+![ERD](assets/판숲 ERD.png)
 
 </div>
 </details>
@@ -70,7 +70,7 @@
 <div>
 
 <img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
-![system Architecture](./assets/시스템 아키텍처 판숲2.png)
+![system Architecture](assets/시스템 아키텍처 판숲2.png)
 
 </div>
 </details>
@@ -78,8 +78,7 @@
 <summary> 기능 명세서</summary>
 <div>
 
-[기능 명세서 링크](https://pumped-square-544.notion.site/API-deac3f36a1ad4c68ac427c155cb63c1e?pvs=74)
-![기능명세서](./assets/[판도라의 숲] 기능 명세 - 시트1.jpg)
+![기능명세서](assets/[판도라의 숲] 기능 명세 - 시트1.jpg)
 
 </div>
 </details>
