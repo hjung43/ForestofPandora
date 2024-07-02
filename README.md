@@ -61,8 +61,7 @@
 <summary> ERD </summary>
 <div>
 
-![ERD](assets/판숲 ERD.png)
-![ERD](assets/판숲 ERD.png)
+![ERD](assets/ERD.PNG)
 
 </div>
 </details>
@@ -71,7 +70,7 @@
 <div>
 
 <img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
-![system Architecture](assets/시스템 아키텍처 판숲2.png)
+![system Architecture](assets/SystemArchitecture.png)
 
 </div>
 </details>
@@ -79,7 +78,7 @@
 <summary> 기능 명세서</summary>
 <div>
 
-![기능명세서](assets/[판도라의 숲] 기능 명세 - 시트1.jpg)
+![기능명세서](assets/FunctionalSpecification.jpg)
 
 </div>
 </details>
@@ -107,7 +106,7 @@
 
 | GIF | 설명 |
 | :---: | :--- |
-| <img src="assets/로그인.gif"  width="300"/> |**회원가입**   <br><br> - 이메일이 이미 사용중인 이메일인지 중복 확인을 진행한다.<br>- 영문 소문자, 숫자 각 1개 이상 조합하여 5-20자만을 비밀번호로 사용할 수 있도록 비밀번호 유효성 검사를 실행한다.<br>- 영문자,한글, 숫자 및 언더바를 포함할 수 있으며 3-10자 닉네임 유효성 검사를 시행한다.<br>- 다른 사용자와 닉네임이 중복되지 않도록 닉네임이 이미 사용중인 닉네임인지 중복확인을 진행한다.<br><br><br><br><br> **로그인** <br><br>- 이메일과 비밀번호로 로그인|
+| <img src="assets/login.GIF"  width="300"/> |**회원가입**   <br><br> - 이메일이 이미 사용중인 이메일인지 중복 확인을 진행한다.<br>- 영문 소문자, 숫자 각 1개 이상 조합하여 5-20자만을 비밀번호로 사용할 수 있도록 비밀번호 유효성 검사를 실행한다.<br>- 영문자,한글, 숫자 및 언더바를 포함할 수 있으며 3-10자 닉네임 유효성 검사를 시행한다.<br>- 다른 사용자와 닉네임이 중복되지 않도록 닉네임이 이미 사용중인 닉네임인지 중복확인을 진행한다.<br><br><br><br><br> **로그인** <br><br>- 이메일과 비밀번호로 로그인|
 
 
 ### 2. 회원가입 직후 추가정보입력 및 가이드 📄
@@ -175,32 +174,10 @@
 
 | 고은석 | 최준호 | 서만기 |
 | --- | --- | --- |
-| <img src="./assets/eun.jpg" width="200"/> | <img src="./assets/jun.jpg" width="200"/> | <img src="./assets/gi.jpg" width="200"/> |
+| <img src=assets/kim.jpg" width="200"/> | <img src="assets/an.jpg" width="200"/> | <img src="assets/yoon.jpg" width="200"/> |
 | - k8s를 이용한 인프라 구축<br>- CI/CD 파이프라인 설계<br>- 실시간 모니터링 시스템 구축 | - 대화 알고리즘 <br>- UI/UX 디자인 개발<br>- API 연결 | - 프로젝트 디자인<br>- asset 일러스트 작업<br>- API 연결 |
 | 최소영 | 심규리 | 유호정 |
-| <img src="./assets/young.jpg" width="200"/> | <img src="./assets/ri.jpg" width="200"/> | <img src="./assets/ho.PNG" width="200"/> |
+| <img src="assets/jo.jpg" width="200"/> | <img src="assets/lee.jpg" width="200"/> | <img src="assets/yoo.PNG" width="200"/> |
 | - Light FM 사용 추천 알고리즘 구현<br>- 회원 API 구현 및 보안 설계<br>- Fast API 파이썬 서버 설계 | - API 명세서, ERD 작성<br>- 다이어리, 스토어, 메뉴, 리뷰 API 구현<br>- 전체 API 기능 테스트 및 버그 수정 | - 기능 명세서, ERD 작성<br>- 칵테일, 이미지, 좋아요 API 구현<br>- amazon S3 파일 업로드 구현 |
 
-
-
-# [SSAFY 공통 프로젝트] 판도라의 숲
-_"모든 이야기에는 듣는 이의 귀와 말하는 이의 입이 필요하다."  
-그 귀와 입들이 모이는 곳, 판도라의 숲._
-
-## 개요 
-쉿, 판도라의 숲! 익명으로 여러분의 글을 공유하고 소통해보세요 😃
-
-여러분은 게시글마다 랜덤한 숲속 동물 닉네임과 프로필 이미지로 활동하면서 **각 글마다의 익명성을 보장**해요 🤩
-
-숲속의 누군가가 내 글에 댓글, 좋아요를 달거나 내 댓글에 답글 혹은 내 답글에 답글을 달았을 경우 알림함에서 확인할 수 있어요 📬
-
-🦉 주변 지인들에게 하기 어려운 말도 판도라의 숲에서 해보세요!
-
-🐰 팔로우/팔로잉을 신경쓰지 않으셔도 됩니다. 익명으로 여러분의 글을 공유하고 소통하세요!
-
-🐢 숏츠 형식으로 다른 글들을 스크롤로 넘겨가며 소통해보세요!
-
-🐮 알람함을 통해 누가 내 글에 답을 남겼는지 확인해봐요!
-
-## 시스템 아키텍처
 
