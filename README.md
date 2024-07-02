@@ -70,7 +70,7 @@
 <div>
 
 <img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
-![systemArchitecture](assets/SystemArchitecture.png)
+![SystemArchitecture](assets/SystemArchitecture.png)
 
 </div>
 </details>
