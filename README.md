@@ -62,6 +62,7 @@
 <div>
 
 ![ERD](assets/판숲 ERD.png)
+![ERD](assets/판숲 ERD.png)
 
 </div>
 </details>
