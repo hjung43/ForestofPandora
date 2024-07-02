@@ -68,7 +68,7 @@
 <summary> 시스템 아키텍처 </summary>
 <div>
 
-![ddd](./assets/아키텍처.png)
+<img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
 
 </div>
 </details>
@@ -200,4 +200,4 @@ _"모든 이야기에는 듣는 이의 귀와 말하는 이의 입이 필요하�
 🐮 알람함을 통해 누가 내 글에 답을 남겼는지 확인해봐요!
 
 ## 시스템 아키텍처
-<img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
+
