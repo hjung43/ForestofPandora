@@ -143,9 +143,11 @@
 
 | 김성재 | 안성재 | 윤정인 |
 | --- | --- | --- |
+| backend | backend | backend |
 | <img src="assets/kim.PNG" width="200"/> | <img src="assets/an.PNG" width="200"/> | <img src="assets/yoon.PNG" width="200"/> |
 | - 회원인증(소셜로그인, 토큰 인증)<br>- 자동배포 파이프라인 구축<br>- 해시함수를 활용한 랜덤 닉네임 부여 로직 개발 | - 게시글 댓글, 대댓글 기능 구현 <br>- 게시글 작성시 이미지 아마존 S3로 업로드<br>- 알람 기능 구현 | - 게시글 작성, 수정, 삭제, 조회<br>- 게시글/댓글/대댓글 신고 및 좋아요, 보관기능<br>- 내가 작성/보관/임시저장한 게시글 목록 조회 |
-| 조연주 | 이서윤 | 유호정 |
+| **조연주** | **이서윤** | **유호정** |
+| frontend | frontend | frontend |
 | <img src="assets/jo.PNG" width="200"/> | <img src="assets/lee.PNG" width="200"/> | <img src="assets/yoo.PNG" width="200"/> |
 | - 게시글 등록 및 이미지 업로드 구현<br>- 댓글, 대댓글 기능 구현<br>- 알림페이지 구현<br>- 랜덤 프로필 사진 배정 구현 | - 메인페이지 및 무한스크롤 구현<br>- 좋아요 및 보관기능 구현<br>- 반응형 CSS구현<br>- 댓글 모달창 구현 | - 마이페이지, 작성/보관 글 구현<br>- 게시글/댓글/대댓글 신고 구현<br>- 게시글 수정 및 임시저장 구현 |
 
