@@ -70,7 +70,7 @@
 <div>
 
 <img width="921" alt="시스템 아키텍처" src="https://github.com/NavyHubb/StudyInitiator/assets/101810007/35cfecf5-eb26-48fd-a921-85b14c16334a">
-![system Architecture](assets/SystemArchitecture.png)
+![systemArchitecture](assets/SystemArchitecture.png)
 
 </div>
 </details>
@@ -94,7 +94,7 @@
 <summary> API 명세서</summary>
 <div>
 
-[API 명세서 링크](https://smiling-park-873.notion.site/API-e997fb927fcf4eb5926a726b33666c58?pvs=4)
+[API 명세서 링크](https://pumped-square-544.notion.site/API-deac3f36a1ad4c68ac427c155cb63c1e)
 
 </div>
 </details>
