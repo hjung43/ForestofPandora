@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](assets/pandoraLogo.png)
+![logo](assets/Logo.png)
 <h4> 누구나 부담없이 사용하는 익명 글 공유 서비스 </h4>
 <h3> 판도라의 숲 </h3>
 </div>
